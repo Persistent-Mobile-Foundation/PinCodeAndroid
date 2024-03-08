@@ -8,7 +8,7 @@ https://pmf.persistentproducts.com/tutorials/en/foundation/9.0/authentication-an
 
 ### Usage
 
-1. Use either Maven, Mobile Foundation CLI or your IDE of choice to [build and deploy the available `ResourceAdapter` and `PinCodeAttempts` adapters](https://pmf.persistentproducts.com/tutorials/en/foundation/8.0/adapters/creating-adapters/).
+1. Use either Maven, Mobile Foundation CLI or your IDE of choice to [build and deploy the available `ResourceAdapter` and `PinCodeAttempts` adapters](https://pmf.persistentproducts.com/tutorials/en/foundation/9.0/adapters/creating-adapters/).
 
  The PinCodeAttempts Security Check adapter and the Resource adapter can be found in https://github.com/Persistent-Mobile-Foundation/SecurityCheckAdapters.
 
